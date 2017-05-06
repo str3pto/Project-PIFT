@@ -1,5 +1,6 @@
 # Project-PIFT
-Abstract
+**Abstract**
+
 From the moment of its release to the markets in 2012, the Raspberry Pi has set milestones in performance and portability, significantly enhanced by its ability to run from an external battery. Thanks to these factors and the Raspberry Pi’s excellent portability, the device can be an excellent portable tool to execute on-the-fly forensics extraction and analysis. This project develops a forensics tool based on the Raspberry Pi 3, with the intent to prove that this device can be used effectively within reason to perform some forensics tasks, such as write blocker and data analysis. Nowadays forensics tools are expensive and bulky, with the creation of the low power single board the same job can be achieved even with hardware limitation of the board. A special feature of this project is the integration TFT screen to facilitate, imaging, and health checks.
 
 **Objective**
