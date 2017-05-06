@@ -1,0 +1,9 @@
+Package: unblocker
+Version: 1.0
+Architecture: all
+Maintainer: Diogo Gomes
+Installed-Size: 40
+Depends: python2.7, bash, lshw, util-linux, kpartx, python-bs4, libnotify-bin, psmisc, coreutils, mount, sudo
+Section: utils
+Priority: extra
+Description: Forensics blocker with software - visit https://itbreak.zone
