@@ -1,8 +1,0 @@
-b42d135c20410085ce87b92987f20bbc  etc/udev/01-forensic-readonly.rules
-380ae66724a794007538342210f4ed57  usr/sbin/wrtblk-ioerr
-60a63c4cf5cba64d42102f098e0643b3  usr/sbin/wrtblk
-a669fb3ba3861a441f859f0a83cb4b97  usr/sbin/wrtblk-disable
-e2bb269d4726253335bee9735e624459  usr/share/applications/Unblocked.desktop
-df304d7e04adf2dc6d57a83e61a1d017  usr/share/unblocker/Unblocker.py
-5c6707f29fe91dd1a6e7d6f81ea62146  usr/share/unblocker/images/Logo.png
-5c6707f29fe91dd1a6e7d6f81ea62146  usr/share/pixmaps/unblock.png
