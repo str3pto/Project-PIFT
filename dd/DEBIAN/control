@@ -1,9 +1,0 @@
-Package: ddrescue-gui
-Version: 2:1.7-0ubuntu1~ppa1
-Architecture: all
-Maintainer: Hamish McIntyre-Bhatty <hamishmb@live.co.uk>
-Installed-Size: 621
-Depends: python-wxtools, gddrescue, python2.7, bash, lshw, util-linux, kpartx, python-bs4, libnotify-bin, psmisc, coreutils, mount, sudo
-Section: utils
-Priority: extra
-Description: A simple GUI frontend to make gddrescue easier to use.
