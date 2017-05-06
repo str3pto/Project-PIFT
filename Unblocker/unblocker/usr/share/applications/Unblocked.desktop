@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=Unblocker
+GenericName=Implementation of the software block
+Comment=Easily block and unblock dev devices
+Exec=sudo python /usr/share/unblocker/Unblocker.py
+Icon=unblock
+Terminal=true
+Type=Application
+Categories=System;
+StartupNotify=true
+Name[en_GB]=Unblocked
+X-KeepTerminal=true
